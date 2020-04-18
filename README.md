@@ -1,5 +1,5 @@
 # Data-Profiling
-Data Profiling Using Python Script to Find Gap Statistics
+Data Profiling Using Python Script to Find Gap Statistics.
 Problem Statement: 
 A large data set contains over 10 years of price history of 4000+ securities. However, the data set has gaps. Write an efficient Python script to profile the data set to create the gap statistics.
 
